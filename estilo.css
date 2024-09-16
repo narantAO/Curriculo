@@ -1,10 +1,9 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: antiquewhite;
-    border-top-style: solid;
-    border-right-style: solid;
-    border-left-style: solid;
-    border-bottom-style: solid;
+ 
+    border-radius: 50px;
+    border-style: solid;
     border-width: 10px;
     padding-left: 5px;
     padding-right: 5px;
